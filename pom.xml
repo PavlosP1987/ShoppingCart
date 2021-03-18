@@ -129,10 +129,7 @@
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.8.1</version>
           <configuration>
-            <release>9</release>
-			<compilerArgs>
-				--enable-preview
-			</compilerArgs>
+            
             <target>1.9</target>
             <source>1.9</source>
             <encoding>UTF-8</encoding>
